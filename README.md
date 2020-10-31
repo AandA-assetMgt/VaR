@@ -1,2 +1,2 @@
 # VaR
-Multiples way to compute the Value-at-risk
+Multiples ways to compute the Value-at-risk
